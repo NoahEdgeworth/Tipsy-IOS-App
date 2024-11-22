@@ -25,9 +25,6 @@ Tipsy is a simple and elegant iOS app that helps you calculate how to split your
 - Storyboard
 - MVC Pattern
 
-## Screenshots
-[You can add screenshots of your app here]
-
 ## Requirements
 - iOS 13.0+
 - Xcode 11.0+
@@ -39,5 +36,3 @@ Tipsy is a simple and elegant iOS app that helps you calculate how to split your
 3. Choose your simulator or connect your device
 4. Build and run the project
 
-## License
-[Add your license information here]
